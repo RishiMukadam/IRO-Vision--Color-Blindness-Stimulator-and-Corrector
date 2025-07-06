@@ -27,7 +27,7 @@ IRO Vision is an accessibility-focused application designed to simulate and corr
 > Make sure you have **Node.js (>=16)** and **npm** installed.
 
 ```bash
-git clone https://github.com/your-username/iro-vision.git
+git clone https://github.com/RishiMukadam/IRO-Vision--Color-Blindness-Stimulator-and-Corrector.git
 cd iro-vision
 
 npm install
