@@ -1,6 +1,6 @@
 # 🧠 IRO Vision — Color Blindness Simulator and Corrector
 
-**Live Demo:** 🌐 [IRO Vision Web App](https://super-gaufre-1b6b5f.netlify.app/test)
+**Live Demo:** 🌐 [IRO Vision Web App](https://super-gaufre-1b6b5f.netlify.app/)
 
 IRO Vision is an accessibility-focused application designed to simulate and correct images for individuals with color vision deficiency (CVD), commonly known as color blindness. It supports major CVD types such as Protanomaly, Deuteranomaly, and Tritanomaly.
 
